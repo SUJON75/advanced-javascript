@@ -23,6 +23,8 @@ function square (element){
 // })
 
 // console.log(result);
+
+
 // javascript array map
 const result = numbers.map(x => x * x);
 console.log(result);
